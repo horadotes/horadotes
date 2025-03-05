@@ -40,7 +40,8 @@
 
 ###
 
-<div align="center">
+<div align="left">
+  <h3>Profile Views: </h3>
   <img src="https://profile-counter.glitch.me/horadotes/count.svg?"  />
 </div>
 
