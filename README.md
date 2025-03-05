@@ -40,8 +40,8 @@
 
 ###
 
-<div align="left">
-  <h3>Profile Views: </h3>
+<div align="center">
+  <h3 class="gap-3">Profile Views</h3>
   <img src="https://profile-counter.glitch.me/horadotes/count.svg?"  />
 </div>
 
