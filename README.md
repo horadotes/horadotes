@@ -41,8 +41,21 @@
 ###
 
 <div align="center">
-  <h3>P r o f i l e &nbsp; &nbsp; V i e w s</h3>
-  <br>
+  <h3 style="margin-bottom: 15px; font-weight: bold;">
+  <span style="color: black;">P</span>
+  <span style="color: green;">r</span>
+  <span style="color: black;">o</span>
+  <span style="color: green;">f</span>
+  <span style="color: black;">i</span>
+  <span style="color: green;">l</span>
+  <span style="color: black;">e</span>
+  &nbsp;
+  <span style="color: green;">V</span>
+  <span style="color: black;">i</span>
+  <span style="color: green;">e</span>
+  <span style="color: black;">w</span>
+  <span style="color: green;">s</span>
+</h3>
   <img src="https://profile-counter.glitch.me/horadotes/count.svg?"  />
 </div>
 
