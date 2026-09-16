@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
@@ -27,6 +27,13 @@ jobs:
           card: top-langs
           options: username=horadotes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true&title_color=2ea44f&text_color=333333
           path: profile/top-langs.svg
+          token: ${{ secrets.GRS_TOKEN }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=horadotes&theme=transparent&hide_border=true&background=FFFFFF00&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=767676
+          path: profile/streak.svg
           token: ${{ secrets.GRS_TOKEN }}
 
       - name: Commit cards
