@@ -56,7 +56,7 @@
   <span style="color: black;">w</span>
   <span style="color: green;">s</span>
 </h3>
-  <img src="https://profile-counter.glitch.me/horadotes/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=horadotes&color=green&style=flat" alt="profile views" />
 </div>
 
 ###
