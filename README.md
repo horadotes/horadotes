@@ -13,12 +13,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=horadotes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&hide_border=true&title_color=2ea44f&icon_color=2ea44f&text_color=333333" height="150" alt="stats graph" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=horadotes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true&title_color=2ea44f&text_color=333333" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/horadotes/horadotes/main/profile/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/horadotes/horadotes/main/profile/top-langs.svg" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=horadotes&theme=transparent&hide_border=true&background=FFFFFF00&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=767676" alt="streak stats" />
+  <img src="https://raw.githubusercontent.com/horadotes/horadotes/main/profile/streak.svg" alt="streak stats" />
 </div>
 
 ---
