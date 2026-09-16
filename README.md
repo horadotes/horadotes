@@ -1,62 +1,50 @@
-<h2 align="left">Hi 👋! I'm Heinz, a Web Developer from the Philippines.</h2>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Heinz;Web+Developer+from+the+Philippines" alt="typing header" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hzkylehora.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://hzkylehora.com)
+[![Email](https://img.shields.io/badge/Email-kaplogheinzschai%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:kaplogheinzschai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heinz%20Kyle%20Hora-2ea44f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-kyle-hora-414543387/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=horadotes&color=2ea44f&style=for-the-badge&label=PROFILE+VIEWS&labelColor=333333)
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=horadotes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=horadotes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=horadotes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&hide_border=true&title_color=2ea44f&icon_color=2ea44f&text_color=333333" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=horadotes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true&title_color=2ea44f&text_color=333333" height="150" alt="languages graph" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=horadotes&theme=transparent&hide_border=true&background=FFFFFF00&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=767676" alt="streak stats" />
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nuxtjs,js,ts,tailwind,html,css,cs,python&theme=light" alt="tech stack" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:14px 28px;border:1px solid #d0d7de;border-radius:6px;background:#f6f8fa">
+        <b>Open to freelance &amp; collaboration — reach out anytime.</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/horadotes/horadotes/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/horadotes/horadotes/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/horadotes/horadotes/output/github-snake.svg" />
 </picture>
 
-###
-
-<div align="center">
-  <h3 style="margin-bottom: 15px; font-weight: bold;">
-  <span style="color: black;">P</span>
-  <span style="color: green;">r</span>
-  <span style="color: black;">o</span>
-  <span style="color: green;">f</span>
-  <span style="color: black;">i</span>
-  <span style="color: green;">l</span>
-  <span style="color: black;">e</span>
-  &nbsp;
-  <span style="color: green;">V</span>
-  <span style="color: black;">i</span>
-  <span style="color: green;">e</span>
-  <span style="color: black;">w</span>
-  <span style="color: green;">s</span>
-</h3>
-  <img src="https://komarev.com/ghpvc/?username=horadotes&color=green&style=flat" alt="profile views" />
 </div>
-
-###
