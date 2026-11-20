@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Heinz;Web+Developer+from+the+Philippines" alt="typing header" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hzkylehora.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://hzkylehora.com)
-[![Email](https://img.shields.io/badge/Email-kaplogheinzschai%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:kaplogheinzschai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heinz%20Kyle%20Hora-2ea44f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-kyle-hora-414543387/)
+[![Email](https://img.shields.io/badge/Email-hzkhora%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:hzkhora@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heinz%20Kyle%20Hora-2ea44f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-kyle-hora-1947b8336/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=horadotes&color=2ea44f&style=for-the-badge&label=PROFILE+VIEWS&labelColor=333333)
 
