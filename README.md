@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hzkylehora.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://hzkylehora.com)
 [![Email](https://img.shields.io/badge/Email-hzkhora%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:hzkhora@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heinz%20Kyle%20Hora-2ea44f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heinz-kyle-hora-1947b8336/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heinz%20Kyle%20Hora-2ea44f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hzkhora/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=horadotes&color=2ea44f&style=for-the-badge&label=PROFILE+VIEWS&labelColor=333333)
 
